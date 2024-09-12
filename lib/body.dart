@@ -21,7 +21,7 @@ class _BodyState extends State<Body> {
         ),
         ElevatedButton(
           onPressed: _onPressedAdd,
-          child: const Text('Add'),
+          child: const Text('Add text plz'),
         ),
         Expanded(
           child: ListView.builder(
